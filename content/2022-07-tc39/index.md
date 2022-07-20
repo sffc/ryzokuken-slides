@@ -35,6 +35,7 @@ https://tc39.es/code-of-conduct/
 
 - To Dave Nugent and The SF JavaScript Meetup for partnering with TC39 for this event
 - To Ujjwal Sharma (@ryzokuken) for contributing to these slides
+- To the Google Chrome team for sponsoring the food at this event
 
 ----
 
@@ -195,4 +196,4 @@ https://tc39.es/process-document/
 
 ---
 
-# Proposal Deep Dives
+# Deep Dive Presentations
